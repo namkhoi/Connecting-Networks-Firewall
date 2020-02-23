@@ -13,4 +13,4 @@
 -A OUTPUT -d 193.190.67.98/32 -p tcp -m tcp --dport 80 -j ACCEPT    
 COMMIT
 # Completed on Sun Feb 23 14:50:12 2020
-#ip adres van belnet (be.archive.ubuntu.com)
+# 193.190.67.98 is het ip adres van belnet (be.archive.ubuntu.com)
